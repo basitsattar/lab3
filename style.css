@@ -208,9 +208,8 @@ body{
     left: 400px;
 }
 input[type=checkbox] {
-   position: absolute;
-   top: -9999px;
-   left: -9999px;
+   right: 80px;
+   margin-top: 30px;
 }
 .plane img {
     height: 100px;
